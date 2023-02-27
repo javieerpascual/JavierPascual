@@ -61,6 +61,11 @@ public class JavierPascual_Pintar {
 	public int getPrecioCuadro() {
 		return precioCuadro;
 	}
+	
+	public void setPrecioCuadro(int precioCuadro) {
+		this.precioCuadro = precioCuadro;
+	}
+
 
 
 
