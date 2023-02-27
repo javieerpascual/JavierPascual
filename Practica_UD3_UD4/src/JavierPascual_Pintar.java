@@ -25,45 +25,7 @@ public class JavierPascual_Pintar {
 		this.nombreCuadro = nombreCuadro;
 	}
 
-	public int getnColores() {
-		return nColores;
-	}
 
-	public void setnColores(int nColores) {
-		this.nColores = nColores;
-	}
-
-	public String getNombreHobby() {
-		return nombreHobby;
-	}
-
-	public void setNombreHobby(String nombreHobby) {
-		this.nombreHobby = nombreHobby;
-	}
-
-	public String getNombrePintor() {
-		return nombrePintor;
-	}
-
-	public void setNombrePintor(String nombrePintor) {
-		this.nombrePintor = nombrePintor;
-	}
-
-	public int getMedidasCuadro() {
-		return medidasCuadro;
-	}
-
-	public void setMedidasCuadro(int medidasCuadro) {
-		this.medidasCuadro = medidasCuadro;
-	}
-
-	public int getPrecioCuadro() {
-		return precioCuadro;
-	}
-
-	public void setPrecioCuadro(int precioCuadro) {
-		this.precioCuadro = precioCuadro;
-	}
 	
 	
 }
