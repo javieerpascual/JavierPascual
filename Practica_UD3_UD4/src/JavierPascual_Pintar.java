@@ -48,6 +48,11 @@ public class JavierPascual_Pintar {
 	public void setNombrePintor(String nombrePintor) {
 		this.nombrePintor = nombrePintor;
 	}
+	
+
+	public int getMedidasCuadro() {
+		return medidasCuadro;
+	}
 
 
 
