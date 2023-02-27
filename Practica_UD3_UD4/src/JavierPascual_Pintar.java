@@ -24,6 +24,10 @@ public class JavierPascual_Pintar {
 	public void setNombreCuadro(String nombreCuadro) {
 		this.nombreCuadro = nombreCuadro;
 	}
+	
+	public int getnColores() {
+		return nColores;
+	}
 
 
 	
