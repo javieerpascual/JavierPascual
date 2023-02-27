@@ -33,6 +33,9 @@ public class JavierPascual_Pintar {
 		this.nColores = nColores;
 	}
 
+	public String getNombreHobby() {
+		return nombreHobby;
+	}
 
 	
 	
