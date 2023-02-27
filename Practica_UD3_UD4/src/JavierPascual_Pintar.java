@@ -28,6 +28,10 @@ public class JavierPascual_Pintar {
 	public int getnColores() {
 		return nColores;
 	}
+	
+	public void setnColores(int nColores) {
+		this.nColores = nColores;
+	}
 
 
 	
