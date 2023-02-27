@@ -54,6 +54,9 @@ public class JavierPascual_Pintar {
 		return medidasCuadro;
 	}
 
+	public void setMedidasCuadro(int medidasCuadro) {
+		this.medidasCuadro = medidasCuadro;
+	}
 
 
 
