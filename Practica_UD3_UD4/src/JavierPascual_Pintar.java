@@ -58,6 +58,9 @@ public class JavierPascual_Pintar {
 		this.medidasCuadro = medidasCuadro;
 	}
 
+	public int getPrecioCuadro() {
+		return precioCuadro;
+	}
 
 
 
