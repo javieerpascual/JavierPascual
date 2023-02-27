@@ -66,10 +66,11 @@ public class JavierPascual_Pintar {
 		this.precioCuadro = precioCuadro;
 	}
 
-
-
-
-	
+	private void loopHasta1000(){
+		for(int i=0, i<1000; i++) {
+			System.out.println(nombreHobby);
+		}
+	}
 	
 }
 
