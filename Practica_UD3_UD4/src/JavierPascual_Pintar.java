@@ -40,6 +40,11 @@ public class JavierPascual_Pintar {
 	public void setNombreHobby(String nombreHobby) {
 		this.nombreHobby = nombreHobby;
 	}
+	
+	public String getNombrePintor() {
+		return nombrePintor;
+	}
+
 
 
 
